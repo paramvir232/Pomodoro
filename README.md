@@ -1,4 +1,4 @@
-# Pomodoro Timer GUI
+# 🍅 Pomodoro Timer GUI 🍅
 This project is a graphical user interface (GUI) implementation of a Pomodoro timer, aimed at enhancing productivity and focus during work sessions. The Pomodoro Technique is a time management method that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
 ## Features
